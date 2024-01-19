@@ -1,0 +1,85 @@
+*{
+  margin: 0;
+  
+}
+
+.bg-container{
+  background-color: rgb(206, 203, 203);
+  height: 25vh;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  
+}
+.bottom-container{
+  background-color: rgba(240, 237, 237, 0.628);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.name{
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  padding-left: 100px;
+  color: purple;
+
+}
+
+.personal-details{
+  /* float: right; */
+  padding-right: 30px;
+  margin-top: -5%;
+  font-size: 15px;
+  font-weight: 100;
+  color: black;
+  margin-left: 70%;
+}
+
+.icons{
+  margin-left: 150px;
+  margin-top: -40px;
+  color: purple;
+}
+.design{
+  background-color: purple;
+  font-size: 20px;
+  border-radius: 50%;
+  color: antiquewhite;
+  padding: 9px;
+  margin-top: 30px;
+  margin-left: 50px;
+
+}
+
+.sub-headings{
+  margin-top: -25px;
+  margin-left: 100px;
+  font-size: 25px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.paragraph{
+  color: gray;
+  font-size: 18px;
+  margin-left: 100px;
+  padding: 5px;
+}
+.sub-title{
+  color: purple;
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 100px;
+  padding-top: 3px;
+}
+span{
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 3px;
+}
+
+
