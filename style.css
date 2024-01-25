@@ -62,11 +62,19 @@
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
+
+.duration{
+  color: gray;
+  font-size: 18px;
+  margin-left: 100px;
+  padding: 5px;
+}
 .paragraph{
   color: gray;
   font-size: 18px;
   margin-left: 100px;
   padding: 5px;
+  display: inline-block;
 }
 .sub-title{
   color: purple;
